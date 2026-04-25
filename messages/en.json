@@ -1,0 +1,292 @@
+{
+  "ticker": {
+    "launchLabel": "LAUNCHING",
+    "days": "D",
+    "hours": "H",
+    "minutes": "M",
+    "seconds": "S",
+    "whitepaper": "Whitepaper"
+  },
+  "nav": {
+    "philosophy": "Philosophy",
+    "token": "Token",
+    "utilities": "Utilities",
+    "ai": "Lotus AI",
+    "roadmap": "Roadmap",
+    "team": "Team",
+    "buy": "Buy $LOTUS"
+  },
+  "hero": {
+    "meta": "Solana · 2026 · Whitepaper v1.0",
+    "title": "The deeper<br></br>the mud,<br></br><italic>the higher</italic><br></br>the lotus blooms.",
+    "description": "$LOTUS is a Solana memecoin of composed resilience — built for the trader who has seen enough cycles to know that calm is a competitive edge.",
+    "buyButton": "Buy on Pump.fun",
+    "whitepaperButton": "Read Whitepaper",
+    "contractLabel": "CONTRACT",
+    "contractValue": "coming at launch"
+  },
+  "interlude": {
+    "passage": "There is a flower that grows <italic>only in mud.</italic><br></br>It cannot bloom in clean water. It uses the mud.<br></br>It turns mud <italicPlain>into fuel,</italicPlain><br></br>into height, into light.",
+    "attribution": "— The Preface"
+  },
+  "philosophy": {
+    "sectionLabel": "01 — Philosophy",
+    "heading": "Three ideas.<br></br><italic>Nothing more.</italic>",
+    "intro": "A project's philosophy is not its marketing. Marketing is what you say to make people click.<br></br><italic>Philosophy is what you do when no one is watching.</italic>",
+    "pillar1Title": "Composure is a competitive edge.",
+    "pillar1Text": "In any high-volatility environment, the trader with the calmest nervous system compounds the fastest. This is not mysticism. It is arithmetic.",
+    "pillar2Title": "Depth is a moat.",
+    "pillar2Text": "Animal iconography is easy to copy. Philosophical frames are harder. The lotus is nearly impossible to copy well — the symbolism is too old, too cross-cultural, too specific.",
+    "pillar3Title": "Utility reinforces the frame.",
+    "pillar3Text": "Every $LOTUS utility reinforces the same thesis of composed resilience. If a feature cannot pass that test, we do not ship it."
+  },
+  "token": {
+    "sectionLabel": "02 — The Token",
+    "heading": "Fair launched.<br></br><italic>Transparently</italic> built.",
+    "intro": "No presale. No team allocation. No private round. Every participant acquires their position in the open market on equal terms.",
+    "supplyLabel": "Supply",
+    "supplySub": "$LOTUS, fixed forever",
+    "feeLabel": "Transfer Fee",
+    "feeSub": "0.5% treasury · 0.5% burn",
+    "allocationLabel": "Team Allocation",
+    "allocationSub": "Zero. None. No vesting.",
+    "launchLabel": "Launch",
+    "launchSub": "LP locked on graduation",
+    "callout": {
+      "label": "The Dip-to-Bloom Mechanic",
+      "heading": "The treasury buys<br></br><italic>when the sky goes dark.</italic>",
+      "text": "Pyth oracles watch the market. When $LOTUS enters qualifying drawdown, the treasury executes programmatic buybacks. Half burned, half retained. Every trigger, every buy, every burn — visible on-chain.",
+      "cta": "Watch the treasury live"
+    }
+  },
+  "utilities": {
+    "sectionLabel": "03 — The Ecosystem",
+    "heading": "Six pieces.<br></br><italic>One garden.</italic>",
+    "intro": "Each utility reinforces the same thesis. Mechanical composure. Structural composure. Behavioral composure. The garden is coherent.",
+    "lotusAi": {
+      "title": "Lotus AI",
+      "status": "Flagship · Phase 2",
+      "text": "A trading companion that combines wallet intelligence, research, and psychological grounding. Four pillars. Thirty-nine features. Tier-gated by stake.",
+      "tag1": "Market Calm",
+      "tag2": "Co-Pilot",
+      "tag3": "Oracle",
+      "tag4": "Research"
+    },
+    "treasury": {
+      "title": "Bloom Treasury",
+      "status": "Live · Phase 1",
+      "text": "The economic engine. Transfer fees in, programmatic buybacks out during drawdowns. Multisig-controlled. Fully transparent on-chain.",
+      "tag1": "Dip-to-Bloom",
+      "tag2": "Auto-Burn",
+      "tag3": "Multisig"
+    },
+    "staking": {
+      "title": "Bloom Staking",
+      "status": "Phase 2",
+      "text": "Stake to earn yield from treasury flow, unlock Lotus AI tiers, and gain voice in the Bloom Council. Rewards are earned, not emitted. No inflation.",
+      "tag1": "Yield",
+      "tag2": "AI Access",
+      "tag3": "Voting Weight"
+    },
+    "council": {
+      "title": "Bloom Council",
+      "status": "Phase 3",
+      "text": "On-chain governance, launched when the garden is ready. Built on Realms. Stakers vote on treasury deployment, partnerships, and protocol parameters.",
+      "tag1": "Realms",
+      "tag2": "On-Chain",
+      "tag3": "Binding"
+    },
+    "nfts": {
+      "title": "Zen Garden",
+      "status": "Phase 2",
+      "text": "A small, deliberate NFT issuance. Membership for the deepest gardeners. Elevated AI tier access, treasury revenue share, Bazaar privileges, amplified governance.",
+      "tag1": "Limited Supply",
+      "tag2": "Revenue Share",
+      "tag3": "Premium Utility"
+    },
+    "bazaar": {
+      "title": "Bloom Bazaar",
+      "status": "Phase 2 → 3",
+      "text": "The commerce layer. Premium $LOTUS merch first. A wider crypto-to-goods catalog in Phase 3. Pay in $LOTUS, SOL, or USDC. Margin flows to treasury.",
+      "tag1": "Merch",
+      "tag2": "E-commerce",
+      "tag3": "Crypto-Only"
+    }
+  },
+  "lotusAi": {
+    "sectionLabel": "04 — The Flagship",
+    "heading": "Meet <italic>Lotus AI.</italic>",
+    "intro": "Most trading bots make you faster. Lotus AI makes you slower — on purpose.<br></br><italic>The first AI agent designed to reward composure over reaction.</italic>",
+    "pillar1": {
+      "label": "Pillar I",
+      "title": "Market Calm<br></br>& Psychology",
+      "text": "Bloom Check-In, Volatility Whisper, Breath Mode, Panic Lock, Journal, Cycle Memory."
+    },
+    "pillar2": {
+      "label": "Pillar II",
+      "title": "Trading<br></br>Co-Pilot",
+      "text": "Wallet analysis, The Bloom Score, rug detection, whale watch, entry zones, gas advisor."
+    },
+    "pillar3": {
+      "label": "Pillar III",
+      "title": "Lore<br></br>& Character",
+      "text": "The Oracle Mode, Daily Bloom, Lore Library, Bloom Mantras, guided visualizations."
+    },
+    "pillar4": {
+      "label": "Pillar IV",
+      "title": "Research<br></br>& Discovery",
+      "text": "Token discovery, narrative scanner, launch radar, deep research, smart money flows."
+    },
+    "launchingOn": "Launching On",
+    "telegram": "Telegram",
+    "then": "then",
+    "platforms": {
+      "web": "Web",
+      "discord": "Discord",
+      "extension": "Extension",
+      "voice": "Voice",
+      "api": "API"
+    },
+    "waitlist": "Join the waitlist"
+  },
+  "roadmap": {
+    "sectionLabel": "05 — Roadmap",
+    "heading": "Four seasons.<br></br><italic>One garden.</italic>",
+    "intro": "Each phase has clear deliverables. Timelines are targets, not promises. The garden grows at its own rhythm.",
+    "beyondQuote": "\"The garden is planted for decades, not months.\"",
+    "seed": {
+      "phase": "Phase 1",
+      "title": "Seed",
+      "timeframe": "Month 0 — 1",
+      "description": "The token is planted cleanly. The community begins to form.",
+      "milestone1": "Fair launch on Pump.fun",
+      "milestone2": "Treasury multisig + 10% market buy",
+      "milestone3": "Transfer fee active (1%)",
+      "milestone4": "Channels + whitepaper (5 languages)"
+    },
+    "bud": {
+      "phase": "Phase 2",
+      "title": "Bud",
+      "timeframe": "Month 1 — 4",
+      "description": "The first product ships. The ecosystem comes alive.",
+      "milestone1": "Lotus AI Telegram launch",
+      "milestone2": "lotusai.app web app live",
+      "milestone3": "Bloom Staking deployed",
+      "milestone4": "Bloom Bazaar merch + first NFT mint"
+    },
+    "bloom": {
+      "phase": "Phase 3",
+      "title": "Bloom",
+      "timeframe": "Month 4 — 9",
+      "description": "Governance arrives. Utility expands. The garden widens.",
+      "milestone1": "Bloom Council on Realms",
+      "milestone2": "Lotus AI Phase 2 features",
+      "milestone3": "Bazaar expansion (Amazon + vendors)",
+      "milestone4": "First Bloom Festival"
+    },
+    "fullBloom": {
+      "phase": "Phase 4",
+      "title": "Full Bloom",
+      "timeframe": "Month 9 — 18",
+      "description": "The ecosystem stands on its own. Self-sustaining.",
+      "milestone1": "Lotus AI full feature surface",
+      "milestone2": "Public API (treasury revenue)",
+      "milestone3": "Wellness + lifestyle partnerships",
+      "milestone4": "Progressive decentralization"
+    }
+  },
+  "team": {
+    "sectionLabel": "06 — The Team",
+    "heading": "Small.<br></br><italic>Solana-native.</italic>",
+    "andrew": {
+      "role": "Founder",
+      "bio": "Director and lead. Sets vision and guides project direction."
+    },
+    "peace": {
+      "role": "Project Manager & Developer",
+      "bio": "Manages product execution and development. Builds the core infrastructure and coordinates the ecosystem."
+    },
+    "rabb": {
+      "role": "Co-Founder & Technical Director",
+      "bio": "Technical direction and architecture. Shapes the engineering foundation of the $LOTUS ecosystem."
+    }
+  },
+  "closing": {
+    "heading": "The mud is here.<br></br><italic>The mud is always here.</italic><br></br>The bloom is up to us.",
+    "buyButton": "Buy $LOTUS on Pump.fun",
+    "joinButton": "Join the Bloom Garden",
+    "footer": "The Bloom Garden — Solana · 2026"
+  },
+  "footer": {
+    "tagline": "A Solana memecoin of composed resilience. Built for traders who know that calm is a competitive edge.",
+    "contractLabel": "CA:",
+    "contractValue": "coming at launch",
+    "explore": "Explore",
+    "documents": "Documents",
+    "community": "Community",
+    "language": "Language",
+    "copyright": "© 2026 $LOTUS · Built on Solana",
+    "mantra": "The deeper the mud, the higher the lotus blooms.",
+    "comingSoon": "Coming soon",
+    "links": {
+      "philosophy": "Philosophy",
+      "token": "Token",
+      "utilities": "Utilities",
+      "ai": "Lotus AI",
+      "roadmap": "Roadmap",
+      "team": "Team",
+      "whitepaper": "Whitepaper (PDF)",
+      "brandKit": "Brand Kit",
+      "treasury": "Treasury Dashboard",
+      "disclosures": "Disclosures",
+      "joinGarden": "Join the Garden"
+    },
+    "legal": {
+      "terms": "Terms",
+      "privacy": "Privacy",
+      "risks": "Risks"
+    }
+  },
+  "disclosures": {
+    "sectionLabel": "Legal · Disclosures",
+    "heading": "Risks &<br></br><italic>disclosures.</italic>",
+    "intro": "$LOTUS is a cryptocurrency. Holding it carries material risk. This page describes those risks plainly so that every prospective gardener can make an informed decision.",
+    "market": {
+      "title": "Market Risk",
+      "text": "Cryptocurrency markets are highly volatile. The price of $LOTUS may decline substantially and may decline to zero. Past performance of any cryptocurrency does not indicate future performance of $LOTUS."
+    },
+    "regulatory": {
+      "title": "Regulatory Risk",
+      "text": "The regulatory environment for cryptocurrency is evolving globally and is not uniform across jurisdictions. Actions by regulators in any jurisdiction may adversely affect the availability, legality, or utility of $LOTUS for residents of that jurisdiction. Prospective holders are responsible for understanding and complying with the laws of their own jurisdictions."
+    },
+    "technical": {
+      "title": "Technical Risk",
+      "text": "Smart contracts can contain bugs. Bridges can fail. Oracles can be manipulated. Wallets can be compromised. No protocol is free of technical risk. The $LOTUS ecosystem will use audited libraries and established Solana primitives wherever possible and will publish audit reports of custom contracts. However, no audit eliminates risk entirely."
+    },
+    "execution": {
+      "title": "Execution Risk",
+      "text": "The roadmap is a plan, not a guarantee. Products may launch later than anticipated, differently than described, or not at all. The team will make good-faith efforts to execute the plan and to communicate changes transparently, but execution outcomes cannot be guaranteed."
+    },
+    "utility": {
+      "title": "Utility Risk",
+      "text": "The utilities described — Lotus AI, Bloom Treasury, Bloom Staking, Bloom Council, Zen Garden, Bloom Bazaar — are planned features. Their eventual form may differ from the descriptions. Access to utilities may be paused, modified, or deprecated as the ecosystem evolves."
+    },
+    "noAdvice": {
+      "title": "No Investment Advice",
+      "text": "Nothing on this site is investment advice, financial advice, legal advice, or tax advice. $LOTUS is a cultural and utility token, not a security, not a share, not a debt instrument, and not a claim on the assets or revenue of any entity. Prospective holders should consult their own professional advisors before making any decision involving $LOTUS."
+    },
+    "noReturn": {
+      "title": "No Guaranteed Return",
+      "text": "$LOTUS does not guarantee any return, yield, or appreciation of any kind. Bloom Staking rewards are funded by ecosystem activity and vary with that activity. Transfer-fee revenue, buybacks, and burns are mechanical but do not guarantee price outcomes. Any expectation of profit should be based on the holder's own analysis."
+    },
+    "jurisdictional": {
+      "title": "Jurisdictional Limitations",
+      "text": "$LOTUS is not offered for sale anywhere in the world where such offer or sale would be unlawful. Prospective holders in any jurisdiction that restricts participation in cryptocurrency markets should not acquire $LOTUS."
+    },
+    "forwardLooking": {
+      "title": "Forward-Looking Statements",
+      "text": "This site contains forward-looking statements — descriptions of future plans, products, features, and outcomes. Forward-looking statements are inherently uncertain. Actual outcomes may differ materially from those described. The team does not undertake to update forward-looking statements as circumstances change, except through subsequent public communications at its discretion."
+    },
+    "footnote": "The mud is the condition. The bloom is up to you."
+  }
+}

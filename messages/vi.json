@@ -1,0 +1,292 @@
+{
+  "ticker": {
+    "launchLabel": "RA MẮT",
+    "days": "D",
+    "hours": "H",
+    "minutes": "M",
+    "seconds": "S",
+    "whitepaper": "Whitepaper"
+  },
+  "nav": {
+    "philosophy": "Triết lý",
+    "token": "Token",
+    "utilities": "Tiện ích",
+    "ai": "Lotus AI",
+    "roadmap": "Lộ trình",
+    "team": "Đội ngũ",
+    "buy": "Mua $LOTUS"
+  },
+  "hero": {
+    "meta": "Solana · 2026 · Whitepaper v1.0",
+    "title": "Bùn càng sâu,<br></br><italic>sen càng</italic><br></br>vươn cao,<br></br>nở rộ.",
+    "description": "$LOTUS là một memecoin trên Solana mang tinh thần kiên định bình thản — dành cho trader đã đi qua đủ chu kỳ để biết rằng sự bình tĩnh là lợi thế cạnh tranh.",
+    "buyButton": "Mua trên Pump.fun",
+    "whitepaperButton": "Đọc Whitepaper",
+    "contractLabel": "CONTRACT",
+    "contractValue": "sắp ra mắt"
+  },
+  "interlude": {
+    "passage": "Có một loài hoa chỉ nở <italic>trong bùn lầy.</italic><br></br>Nó không thể nở trong nước sạch. Nó dùng bùn.<br></br>Biến bùn <italicPlain>thành nhiên liệu,</italicPlain><br></br>thành độ cao, thành ánh sáng.",
+    "attribution": "— Lời mở đầu"
+  },
+  "philosophy": {
+    "sectionLabel": "01 — Triết lý",
+    "heading": "Ba ý tưởng.<br></br><italic>Không hơn.</italic>",
+    "intro": "Triết lý của một dự án không phải là marketing. Marketing là điều bạn nói để khiến mọi người nhấp chuột.<br></br><italic>Triết lý là điều bạn làm khi không có ai nhìn.</italic>",
+    "pillar1Title": "Sự bình tĩnh là lợi thế cạnh tranh.",
+    "pillar1Text": "Trong bất kỳ môi trường biến động cao nào, trader có hệ thần kinh điềm tĩnh nhất sẽ tích lũy nhanh nhất. Đây không phải huyền học. Đây là số học.",
+    "pillar2Title": "Chiều sâu là hào thành.",
+    "pillar2Text": "Hình tượng động vật dễ sao chép. Khung triết lý khó hơn. Sen gần như không thể sao chép tốt — biểu tượng quá cổ, quá xuyên văn hóa, quá đặc thù.",
+    "pillar3Title": "Tiện ích củng cố khung.",
+    "pillar3Text": "Mỗi tiện ích của $LOTUS đều củng cố cùng một luận điểm về sự kiên định bình thản. Nếu một tính năng không vượt qua bài kiểm tra đó, chúng tôi không phát hành."
+  },
+  "token": {
+    "sectionLabel": "02 — Token",
+    "heading": "Ra mắt công bằng.<br></br>Xây dựng <italic>minh bạch.</italic>",
+    "intro": "Không presale. Không phân bổ cho đội ngũ. Không vòng riêng tư. Mọi người tham gia đều có được vị thế của mình trên thị trường mở với điều kiện bình đẳng.",
+    "supplyLabel": "Tổng cung",
+    "supplySub": "$LOTUS, cố định mãi mãi",
+    "feeLabel": "Phí Chuyển",
+    "feeSub": "0,5% kho bạc · 0,5% đốt",
+    "allocationLabel": "Phân bổ Đội ngũ",
+    "allocationSub": "Bằng không. Không có. Không vesting.",
+    "launchLabel": "Ra Mắt",
+    "launchSub": "LP khóa khi tốt nghiệp",
+    "callout": {
+      "label": "Cơ chế Dip-to-Bloom",
+      "heading": "Kho bạc mua vào<br></br><italic>khi bầu trời tối lại.</italic>",
+      "text": "Oracle Pyth theo dõi thị trường. Khi $LOTUS bước vào đợt giảm đủ điều kiện, kho bạc thực hiện mua lại theo chương trình. Một nửa đốt, một nửa giữ lại. Mỗi lần kích hoạt, mỗi lần mua, mỗi lần đốt — đều nhìn thấy trên chuỗi.",
+      "cta": "Xem kho bạc trực tiếp"
+    }
+  },
+  "utilities": {
+    "sectionLabel": "03 — Hệ Sinh Thái",
+    "heading": "Sáu mảnh ghép.<br></br><italic>Một khu vườn.</italic>",
+    "intro": "Mỗi tiện ích củng cố cùng một luận điểm. Bình thản về cơ chế. Bình thản về cấu trúc. Bình thản về hành vi. Khu vườn là một thể thống nhất.",
+    "lotusAi": {
+      "title": "Lotus AI",
+      "status": "Chủ Lực · Giai đoạn 2",
+      "text": "Một người đồng hành giao dịch kết hợp trí tuệ về ví, nghiên cứu và sự bình thản tâm lý. Bốn trụ cột. Ba mươi chín tính năng. Phân tầng theo stake.",
+      "tag1": "Bình Thản Thị Trường",
+      "tag2": "Co-Pilot",
+      "tag3": "Oracle",
+      "tag4": "Nghiên Cứu"
+    },
+    "treasury": {
+      "title": "Bloom Treasury",
+      "status": "Đang Hoạt Động · Giai đoạn 1",
+      "text": "Động cơ kinh tế. Phí chuyển vào, mua lại theo chương trình ra trong các đợt giảm. Kiểm soát bằng multisig. Hoàn toàn minh bạch trên chuỗi.",
+      "tag1": "Dip-to-Bloom",
+      "tag2": "Tự Đốt",
+      "tag3": "Multisig"
+    },
+    "staking": {
+      "title": "Bloom Staking",
+      "status": "Giai đoạn 2",
+      "text": "Stake để kiếm lợi nhuận từ dòng kho bạc, mở khóa các tầng Lotus AI và có tiếng nói tại Bloom Council. Phần thưởng được kiếm, không phải phát hành. Không lạm phát.",
+      "tag1": "Lợi Nhuận",
+      "tag2": "Truy Cập AI",
+      "tag3": "Trọng Số Bỏ Phiếu"
+    },
+    "council": {
+      "title": "Bloom Council",
+      "status": "Giai đoạn 3",
+      "text": "Quản trị trên chuỗi, ra mắt khi khu vườn sẵn sàng. Xây dựng trên Realms. Người stake bỏ phiếu về triển khai kho bạc, hợp tác và tham số giao thức.",
+      "tag1": "Realms",
+      "tag2": "Trên-Chuỗi",
+      "tag3": "Ràng Buộc"
+    },
+    "nfts": {
+      "title": "Zen Garden",
+      "status": "Giai đoạn 2",
+      "text": "Một đợt phát hành NFT nhỏ và có chủ đích. Tư cách thành viên cho những người làm vườn sâu sắc nhất. Truy cập tầng AI cao cấp, chia sẻ doanh thu kho bạc, đặc quyền tại Bazaar, quyền quản trị mở rộng.",
+      "tag1": "Nguồn Cung Hạn Chế",
+      "tag2": "Chia Sẻ Doanh Thu",
+      "tag3": "Tiện Ích Cao Cấp"
+    },
+    "bazaar": {
+      "title": "Bloom Bazaar",
+      "status": "Giai đoạn 2 → 3",
+      "text": "Lớp thương mại. Merch cao cấp của $LOTUS trước. Danh mục tiền điện tử-sang-hàng hóa rộng hơn ở Giai đoạn 3. Thanh toán bằng $LOTUS, SOL hoặc USDC. Lợi nhuận chảy về kho bạc.",
+      "tag1": "Merch",
+      "tag2": "Thương mại điện tử",
+      "tag3": "Chỉ-Crypto"
+    }
+  },
+  "lotusAi": {
+    "sectionLabel": "04 — Sản Phẩm Chủ Lực",
+    "heading": "Gặp <italic>Lotus AI.</italic>",
+    "intro": "Hầu hết các bot giao dịch khiến bạn nhanh hơn. Lotus AI khiến bạn chậm lại — có chủ ý.<br></br><italic>Tác nhân AI đầu tiên được thiết kế để thưởng cho sự bình thản hơn là phản ứng.</italic>",
+    "pillar1": {
+      "label": "Trụ I",
+      "title": "Bình Thản Thị Trường<br></br>& Tâm Lý",
+      "text": "Bloom Check-In, Volatility Whisper, Breath Mode, Panic Lock, Journal, Cycle Memory."
+    },
+    "pillar2": {
+      "label": "Trụ II",
+      "title": "Co-Pilot<br></br>Giao Dịch",
+      "text": "Phân tích ví, The Bloom Score, phát hiện rug, whale watch, vùng vào lệnh, cố vấn gas."
+    },
+    "pillar3": {
+      "label": "Trụ III",
+      "title": "Lore<br></br>& Tính Cách",
+      "text": "The Oracle Mode, Daily Bloom, Lore Library, Bloom Mantras, hình dung có hướng dẫn."
+    },
+    "pillar4": {
+      "label": "Trụ IV",
+      "title": "Nghiên Cứu<br></br>& Khám Phá",
+      "text": "Khám phá token, máy quét narrative, radar ra mắt, nghiên cứu sâu, dòng tiền thông minh."
+    },
+    "launchingOn": "Ra Mắt Trên",
+    "telegram": "Telegram",
+    "then": "sau đó",
+    "platforms": {
+      "web": "Web",
+      "discord": "Discord",
+      "extension": "Extension",
+      "voice": "Voice",
+      "api": "API"
+    },
+    "waitlist": "Tham gia danh sách chờ"
+  },
+  "roadmap": {
+    "sectionLabel": "05 — Lộ trình",
+    "heading": "Bốn mùa.<br></br><italic>Một khu vườn.</italic>",
+    "intro": "Mỗi giai đoạn có những sản phẩm bàn giao rõ ràng. Mốc thời gian là mục tiêu, không phải lời hứa. Khu vườn lớn lên theo nhịp riêng của nó.",
+    "beyondQuote": "\"Khu vườn này được trồng cho hàng thập kỷ, không phải vài tháng.\"",
+    "seed": {
+      "phase": "Giai đoạn 1",
+      "title": "Hạt Giống",
+      "timeframe": "Tháng 0 — 1",
+      "description": "Token được gieo trồng sạch sẽ. Cộng đồng bắt đầu hình thành.",
+      "milestone1": "Ra mắt công bằng trên Pump.fun",
+      "milestone2": "Multisig kho bạc + mua thị trường 10%",
+      "milestone3": "Phí chuyển kích hoạt (1%)",
+      "milestone4": "Kênh + whitepaper (5 ngôn ngữ)"
+    },
+    "bud": {
+      "phase": "Giai đoạn 2",
+      "title": "Nụ Hoa",
+      "timeframe": "Tháng 1 — 4",
+      "description": "Sản phẩm đầu tiên ra mắt. Hệ sinh thái bừng sống.",
+      "milestone1": "Ra mắt Lotus AI Telegram",
+      "milestone2": "lotusai.app web app trực tuyến",
+      "milestone3": "Triển khai Bloom Staking",
+      "milestone4": "Merch Bloom Bazaar + đợt mint NFT đầu tiên"
+    },
+    "bloom": {
+      "phase": "Giai đoạn 3",
+      "title": "Nở Hoa",
+      "timeframe": "Tháng 4 — 9",
+      "description": "Quản trị xuất hiện. Tiện ích mở rộng. Khu vườn rộng hơn.",
+      "milestone1": "Bloom Council trên Realms",
+      "milestone2": "Tính năng Lotus AI Giai đoạn 2",
+      "milestone3": "Mở rộng Bazaar (Amazon + nhà cung cấp)",
+      "milestone4": "Bloom Festival đầu tiên"
+    },
+    "fullBloom": {
+      "phase": "Giai đoạn 4",
+      "title": "Nở Rộ",
+      "timeframe": "Tháng 9 — 18",
+      "description": "Hệ sinh thái tự đứng vững. Tự duy trì.",
+      "milestone1": "Lotus AI đầy đủ tính năng",
+      "milestone2": "API công khai (doanh thu kho bạc)",
+      "milestone3": "Hợp tác wellness + lifestyle",
+      "milestone4": "Phi tập trung tiến bộ"
+    }
+  },
+  "team": {
+    "sectionLabel": "06 — Đội ngũ",
+    "heading": "Nhỏ.<br></br><italic>Sinh ra trên Solana.</italic>",
+    "andrew": {
+      "role": "Người Sáng Lập",
+      "bio": "Giám đốc và lãnh đạo. Đặt tầm nhìn và dẫn dắt hướng đi của dự án."
+    },
+    "peace": {
+      "role": "Quản Lý Dự Án & Lập Trình Viên",
+      "bio": "Quản lý việc thực thi và phát triển sản phẩm. Xây dựng cơ sở hạ tầng cốt lõi và điều phối hệ sinh thái."
+    },
+    "rabb": {
+      "role": "Đồng Sáng Lập & Giám Đốc Kỹ Thuật",
+      "bio": "Định hướng kỹ thuật và kiến trúc. Định hình nền tảng kỹ thuật của hệ sinh thái $LOTUS."
+    }
+  },
+  "closing": {
+    "heading": "Bùn ở đây.<br></br><italic>Bùn luôn ở đây.</italic><br></br>Việc nở hoa là tùy thuộc vào chúng ta.",
+    "buyButton": "Mua $LOTUS trên Pump.fun",
+    "joinButton": "Tham gia Bloom Garden",
+    "footer": "Bloom Garden — Solana · 2026"
+  },
+  "footer": {
+    "tagline": "Một memecoin Solana mang tinh thần kiên định bình thản. Xây dựng cho những trader hiểu rằng bình tĩnh là lợi thế cạnh tranh.",
+    "contractLabel": "CA:",
+    "contractValue": "sắp ra mắt",
+    "explore": "Khám Phá",
+    "documents": "Tài Liệu",
+    "community": "Cộng Đồng",
+    "language": "Ngôn Ngữ",
+    "copyright": "© 2026 $LOTUS · Xây dựng trên Solana",
+    "mantra": "Bùn càng sâu, sen càng vươn cao.",
+    "comingSoon": "Sắp ra mắt",
+    "links": {
+      "philosophy": "Triết lý",
+      "token": "Token",
+      "utilities": "Tiện ích",
+      "ai": "Lotus AI",
+      "roadmap": "Lộ trình",
+      "team": "Đội ngũ",
+      "whitepaper": "Whitepaper (PDF)",
+      "brandKit": "Bộ Nhận Diện",
+      "treasury": "Bảng Kho Bạc",
+      "disclosures": "Công Bố",
+      "joinGarden": "Tham Gia Khu Vườn"
+    },
+    "legal": {
+      "terms": "Điều Khoản",
+      "privacy": "Riêng Tư",
+      "risks": "Rủi Ro"
+    }
+  },
+  "disclosures": {
+    "sectionLabel": "Pháp lý · Công bố",
+    "heading": "Rủi ro &<br></br><italic>công bố.</italic>",
+    "intro": "$LOTUS là một loại tiền điện tử. Việc nắm giữ mang rủi ro thực chất. Trang này mô tả những rủi ro đó một cách rõ ràng để mỗi người làm vườn tiềm năng có thể đưa ra quyết định sáng suốt.",
+    "market": {
+      "title": "Rủi Ro Thị Trường",
+      "text": "Thị trường tiền điện tử có biến động cao. Giá của $LOTUS có thể giảm đáng kể và có thể giảm về không. Hiệu suất trong quá khứ của bất kỳ loại tiền điện tử nào không cho thấy hiệu suất tương lai của $LOTUS."
+    },
+    "regulatory": {
+      "title": "Rủi Ro Pháp Lý",
+      "text": "Môi trường pháp lý cho tiền điện tử đang phát triển trên toàn cầu và không đồng nhất giữa các khu vực pháp lý. Các hành động của cơ quan quản lý tại bất kỳ khu vực pháp lý nào có thể ảnh hưởng bất lợi đến tính khả dụng, hợp pháp hoặc tiện ích của $LOTUS đối với cư dân của khu vực đó. Người nắm giữ tiềm năng có trách nhiệm hiểu và tuân thủ luật pháp của khu vực pháp lý của chính mình."
+    },
+    "technical": {
+      "title": "Rủi Ro Kỹ Thuật",
+      "text": "Hợp đồng thông minh có thể chứa lỗi. Các cầu nối có thể thất bại. Oracle có thể bị thao túng. Ví có thể bị xâm phạm. Không có giao thức nào hoàn toàn không có rủi ro kỹ thuật. Hệ sinh thái $LOTUS sẽ sử dụng các thư viện đã được kiểm toán và các nguyên tắc cơ bản đã được thiết lập của Solana bất cứ khi nào có thể và sẽ công bố báo cáo kiểm toán của các hợp đồng tùy chỉnh. Tuy nhiên, không có cuộc kiểm toán nào loại bỏ hoàn toàn rủi ro."
+    },
+    "execution": {
+      "title": "Rủi Ro Thực Thi",
+      "text": "Lộ trình là một kế hoạch, không phải một sự đảm bảo. Sản phẩm có thể ra mắt muộn hơn dự kiến, khác với mô tả, hoặc hoàn toàn không ra mắt. Đội ngũ sẽ nỗ lực thiện chí để thực thi kế hoạch và truyền đạt các thay đổi một cách minh bạch, nhưng kết quả thực thi không thể được đảm bảo."
+    },
+    "utility": {
+      "title": "Rủi Ro Tiện Ích",
+      "text": "Các tiện ích được mô tả — Lotus AI, Bloom Treasury, Bloom Staking, Bloom Council, Zen Garden, Bloom Bazaar — là các tính năng theo kế hoạch. Hình thức cuối cùng của chúng có thể khác với mô tả. Quyền truy cập vào các tiện ích có thể bị tạm dừng, sửa đổi hoặc ngừng khi hệ sinh thái phát triển."
+    },
+    "noAdvice": {
+      "title": "Không Phải Lời Khuyên Đầu Tư",
+      "text": "Không có gì trên trang web này là lời khuyên đầu tư, lời khuyên tài chính, lời khuyên pháp lý hoặc lời khuyên thuế. $LOTUS là một token văn hóa và tiện ích, không phải chứng khoán, không phải cổ phần, không phải công cụ nợ và không phải yêu cầu đối với tài sản hoặc doanh thu của bất kỳ thực thể nào. Người nắm giữ tiềm năng nên tham khảo ý kiến cố vấn chuyên nghiệp của riêng mình trước khi đưa ra bất kỳ quyết định nào liên quan đến $LOTUS."
+    },
+    "noReturn": {
+      "title": "Không Đảm Bảo Lợi Nhuận",
+      "text": "$LOTUS không đảm bảo bất kỳ lợi nhuận, năng suất hoặc tăng giá nào dưới bất kỳ hình thức nào. Phần thưởng Bloom Staking được tài trợ bởi hoạt động của hệ sinh thái và thay đổi theo hoạt động đó. Doanh thu phí chuyển, mua lại và đốt là cơ học nhưng không đảm bảo kết quả về giá. Bất kỳ kỳ vọng lợi nhuận nào nên dựa trên phân tích của chính người nắm giữ."
+    },
+    "jurisdictional": {
+      "title": "Hạn Chế Khu Vực Pháp Lý",
+      "text": "$LOTUS không được chào bán ở bất kỳ nơi nào trên thế giới mà việc chào bán hoặc bán đó là bất hợp pháp. Người nắm giữ tiềm năng ở bất kỳ khu vực pháp lý nào hạn chế tham gia vào thị trường tiền điện tử không nên mua $LOTUS."
+    },
+    "forwardLooking": {
+      "title": "Tuyên Bố Hướng Tới Tương Lai",
+      "text": "Trang web này chứa các tuyên bố hướng tới tương lai — mô tả các kế hoạch, sản phẩm, tính năng và kết quả tương lai. Các tuyên bố hướng tới tương lai về bản chất là không chắc chắn. Kết quả thực tế có thể khác biệt đáng kể so với mô tả. Đội ngũ không cam kết cập nhật các tuyên bố hướng tới tương lai khi hoàn cảnh thay đổi, ngoại trừ thông qua các thông báo công khai sau đó theo quyết định của mình."
+    },
+    "footnote": "Bùn là điều kiện. Việc nở hoa tùy thuộc vào bạn."
+  }
+}

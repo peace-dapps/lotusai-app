@@ -1,0 +1,292 @@
+{
+  "ticker": {
+    "launchLabel": "即将启动",
+    "days": "天",
+    "hours": "时",
+    "minutes": "分",
+    "seconds": "秒",
+    "whitepaper": "白皮书"
+  },
+  "nav": {
+    "philosophy": "哲学",
+    "token": "代币",
+    "utilities": "实用功能",
+    "ai": "Lotus AI",
+    "roadmap": "路线图",
+    "team": "团队",
+    "buy": "购买 $LOTUS"
+  },
+  "hero": {
+    "meta": "Solana · 2026 · 白皮书 v1.0",
+    "title": "泥沼越深,<br></br><italic>莲花</italic><br></br>绽放越高。",
+    "description": "$LOTUS 是一个诞生于 Solana 的 memecoin,代表沉着的韧性 —— 为那些经历过足够多周期、深知冷静即是竞争优势的交易者而生。",
+    "buyButton": "在 Pump.fun 购买",
+    "whitepaperButton": "阅读白皮书",
+    "contractLabel": "合约地址",
+    "contractValue": "启动时公布"
+  },
+  "interlude": {
+    "passage": "有一种花,<italic>唯在淤泥中生长。</italic><br></br>它无法在清水中盛开。它以淤泥为养。<br></br>将淤泥 <italicPlain>化为燃料,</italicPlain><br></br>化为高度,化为光。",
+    "attribution": "— 序"
+  },
+  "philosophy": {
+    "sectionLabel": "01 — 哲学",
+    "heading": "三个理念。<br></br><italic>仅此而已。</italic>",
+    "intro": "项目的哲学不是营销。营销是你为了让人点击而说的话。<br></br><italic>哲学是你在无人注视时所做的事。</italic>",
+    "pillar1Title": "沉着即是竞争优势。",
+    "pillar1Text": "在任何高波动的环境中,神经系统最平静的交易者复利最快。这不是神秘主义,而是算术。",
+    "pillar2Title": "深度即是护城河。",
+    "pillar2Text": "动物图腾容易模仿。哲学框架更难。莲花几乎无法被有效模仿 —— 这一象征过于古老、过于跨文化、过于独特。",
+    "pillar3Title": "实用功能强化框架。",
+    "pillar3Text": "$LOTUS 的每一项实用功能都强化同一个论点 —— 沉着的韧性。若一项功能无法通过这个测试,我们就不发布。"
+  },
+  "token": {
+    "sectionLabel": "02 — 代币",
+    "heading": "公平发射。<br></br><italic>透明</italic>构建。",
+    "intro": "无预售。无团队分配。无私募轮。每位参与者都在公开市场以平等条件获得自己的份额。",
+    "supplyLabel": "总供应量",
+    "supplySub": "$LOTUS,永久固定",
+    "feeLabel": "转账费",
+    "feeSub": "0.5% 国库 · 0.5% 销毁",
+    "allocationLabel": "团队分配",
+    "allocationSub": "零。没有。无解锁。",
+    "launchLabel": "发射",
+    "launchSub": "毕业时 LP 锁定",
+    "callout": {
+      "label": "Dip-to-Bloom 机制",
+      "heading": "国库在天色变暗时<br></br><italic>买入。</italic>",
+      "text": "Pyth 预言机监测市场。当 $LOTUS 进入符合条件的回调时,国库执行程序化回购。一半销毁,一半保留。每一次触发、每一次买入、每一次销毁 —— 链上可见。",
+      "cta": "查看实时国库"
+    }
+  },
+  "utilities": {
+    "sectionLabel": "03 — 生态系统",
+    "heading": "六个部分。<br></br><italic>一座花园。</italic>",
+    "intro": "每一项实用功能都强化同一个论点。机制上的沉着。结构上的沉着。行为上的沉着。这座花园是一个整体。",
+    "lotusAi": {
+      "title": "Lotus AI",
+      "status": "旗舰 · 第二阶段",
+      "text": "一个交易伴侣,集成钱包智能、研究和心理沉着。四个支柱。三十九项功能。按 stake 分级。",
+      "tag1": "市场冷静",
+      "tag2": "Co-Pilot",
+      "tag3": "Oracle",
+      "tag4": "研究"
+    },
+    "treasury": {
+      "title": "Bloom Treasury",
+      "status": "已上线 · 第一阶段",
+      "text": "经济引擎。转账费流入,在回调期间程序化回购流出。Multisig 控制。链上完全透明。",
+      "tag1": "Dip-to-Bloom",
+      "tag2": "自动销毁",
+      "tag3": "Multisig"
+    },
+    "staking": {
+      "title": "Bloom Staking",
+      "status": "第二阶段",
+      "text": "Stake 以从国库流中获得收益,解锁 Lotus AI 等级,并在 Bloom Council 拥有发言权。奖励是赚取的,不是发行的。无通胀。",
+      "tag1": "收益",
+      "tag2": "AI 访问",
+      "tag3": "投票权重"
+    },
+    "council": {
+      "title": "Bloom Council",
+      "status": "第三阶段",
+      "text": "链上治理,在花园准备就绪时启动。基于 Realms 构建。Stakers 投票决定国库部署、合作伙伴关系和协议参数。",
+      "tag1": "Realms",
+      "tag2": "链上",
+      "tag3": "具有约束力"
+    },
+    "nfts": {
+      "title": "Zen Garden",
+      "status": "第二阶段",
+      "text": "一次小规模、有意为之的 NFT 发行。最深耕的园丁的会员资格。提升的 AI 等级访问、国库收入分成、Bazaar 特权、放大的治理权。",
+      "tag1": "限量供应",
+      "tag2": "收入分成",
+      "tag3": "高级实用"
+    },
+    "bazaar": {
+      "title": "Bloom Bazaar",
+      "status": "第二 → 三阶段",
+      "text": "商务层。先推出 $LOTUS 高端周边。第三阶段推出更广泛的加密货币换实物目录。用 $LOTUS、SOL 或 USDC 支付。利润流向国库。",
+      "tag1": "周边",
+      "tag2": "电商",
+      "tag3": "仅限加密"
+    }
+  },
+  "lotusAi": {
+    "sectionLabel": "04 — 旗舰",
+    "heading": "认识 <italic>Lotus AI。</italic>",
+    "intro": "大多数交易机器人让你更快。Lotus AI 让你更慢 —— 有意为之。<br></br><italic>第一个为奖励沉着而非反应而设计的 AI 代理。</italic>",
+    "pillar1": {
+      "label": "支柱 I",
+      "title": "市场冷静<br></br>与心理",
+      "text": "Bloom Check-In, Volatility Whisper, Breath Mode, Panic Lock, Journal, Cycle Memory。"
+    },
+    "pillar2": {
+      "label": "支柱 II",
+      "title": "交易<br></br>Co-Pilot",
+      "text": "钱包分析,The Bloom Score,Rug 检测,巨鲸监控,入场区间,Gas 顾问。"
+    },
+    "pillar3": {
+      "label": "支柱 III",
+      "title": "传说<br></br>与角色",
+      "text": "The Oracle Mode, Daily Bloom, Lore Library, Bloom Mantras,引导可视化。"
+    },
+    "pillar4": {
+      "label": "支柱 IV",
+      "title": "研究<br></br>与发现",
+      "text": "代币发现,叙事扫描器,启动雷达,深度研究,聪明钱流向。"
+    },
+    "launchingOn": "发布于",
+    "telegram": "Telegram",
+    "then": "然后",
+    "platforms": {
+      "web": "Web",
+      "discord": "Discord",
+      "extension": "Extension",
+      "voice": "Voice",
+      "api": "API"
+    },
+    "waitlist": "加入等候名单"
+  },
+  "roadmap": {
+    "sectionLabel": "05 — 路线图",
+    "heading": "四个季节。<br></br><italic>一座花园。</italic>",
+    "intro": "每个阶段都有明确的交付物。时间线是目标,不是承诺。花园按自己的节奏生长。",
+    "beyondQuote": "\"这座花园是为几十年而种,不是为几个月。\"",
+    "seed": {
+      "phase": "第一阶段",
+      "title": "种子",
+      "timeframe": "第 0 — 1 个月",
+      "description": "代币干净地播种。社区开始形成。",
+      "milestone1": "在 Pump.fun 公平发射",
+      "milestone2": "国库 Multisig + 10% 市场买入",
+      "milestone3": "转账费激活(1%)",
+      "milestone4": "渠道 + 白皮书(5 种语言)"
+    },
+    "bud": {
+      "phase": "第二阶段",
+      "title": "花蕾",
+      "timeframe": "第 1 — 4 个月",
+      "description": "首个产品发布。生态系统焕发生机。",
+      "milestone1": "Lotus AI Telegram 启动",
+      "milestone2": "lotusai.app 网页应用上线",
+      "milestone3": "Bloom Staking 部署",
+      "milestone4": "Bloom Bazaar 周边 + 首次 NFT 铸造"
+    },
+    "bloom": {
+      "phase": "第三阶段",
+      "title": "绽放",
+      "timeframe": "第 4 — 9 个月",
+      "description": "治理到来。实用功能扩展。花园展开。",
+      "milestone1": "Bloom Council 上线 Realms",
+      "milestone2": "Lotus AI 第二阶段功能",
+      "milestone3": "Bazaar 扩展(Amazon + 供应商)",
+      "milestone4": "首届 Bloom Festival"
+    },
+    "fullBloom": {
+      "phase": "第四阶段",
+      "title": "盛放",
+      "timeframe": "第 9 — 18 个月",
+      "description": "生态系统自立。自给自足。",
+      "milestone1": "Lotus AI 全功能上线",
+      "milestone2": "公开 API(国库收入)",
+      "milestone3": "健康 + 生活方式合作伙伴关系",
+      "milestone4": "渐进式去中心化"
+    }
+  },
+  "team": {
+    "sectionLabel": "06 — 团队",
+    "heading": "小而精。<br></br><italic>原生于 Solana。</italic>",
+    "andrew": {
+      "role": "创始人",
+      "bio": "总监与领导者。设定愿景,引领项目方向。"
+    },
+    "peace": {
+      "role": "项目经理与开发者",
+      "bio": "负责产品执行与开发。构建核心基础设施,协调生态系统。"
+    },
+    "rabb": {
+      "role": "联合创始人与技术总监",
+      "bio": "技术方向与架构。塑造 $LOTUS 生态系统的工程基础。"
+    }
+  },
+  "closing": {
+    "heading": "淤泥就在这里。<br></br><italic>淤泥永远在这里。</italic><br></br>是否绽放,在于我们。",
+    "buyButton": "在 Pump.fun 购买 $LOTUS",
+    "joinButton": "加入 Bloom Garden",
+    "footer": "Bloom Garden — Solana · 2026"
+  },
+  "footer": {
+    "tagline": "一个诞生于 Solana 的 memecoin,代表沉着的韧性。为深知冷静即是竞争优势的交易者而生。",
+    "contractLabel": "CA:",
+    "contractValue": "启动时公布",
+    "explore": "探索",
+    "documents": "文档",
+    "community": "社区",
+    "language": "语言",
+    "copyright": "© 2026 $LOTUS · 构建于 Solana",
+    "mantra": "泥沼越深,莲花绽放越高。",
+    "comingSoon": "即将推出",
+    "links": {
+      "philosophy": "哲学",
+      "token": "代币",
+      "utilities": "实用功能",
+      "ai": "Lotus AI",
+      "roadmap": "路线图",
+      "team": "团队",
+      "whitepaper": "白皮书 (PDF)",
+      "brandKit": "品牌资源",
+      "treasury": "国库面板",
+      "disclosures": "披露",
+      "joinGarden": "加入花园"
+    },
+    "legal": {
+      "terms": "条款",
+      "privacy": "隐私",
+      "risks": "风险"
+    }
+  },
+  "disclosures": {
+    "sectionLabel": "法律 · 披露",
+    "heading": "风险与<br></br><italic>披露。</italic>",
+    "intro": "$LOTUS 是一种加密货币。持有它存在实质性风险。本页面清楚地描述了这些风险,以便每位潜在的园丁都能做出明智的决定。",
+    "market": {
+      "title": "市场风险",
+      "text": "加密货币市场波动性极大。$LOTUS 的价格可能大幅下跌,甚至可能跌至零。任何加密货币的过去表现都不代表 $LOTUS 的未来表现。"
+    },
+    "regulatory": {
+      "title": "监管风险",
+      "text": "加密货币的监管环境在全球范围内不断演变,各司法管辖区之间不统一。任何司法管辖区监管机构的行动都可能对该司法管辖区居民可获得 $LOTUS 的可用性、合法性或实用性产生不利影响。潜在持有者有责任了解并遵守其所在司法管辖区的法律。"
+    },
+    "technical": {
+      "title": "技术风险",
+      "text": "智能合约可能含有错误。跨链桥可能失败。预言机可能被操纵。钱包可能被攻击。没有任何协议是完全无技术风险的。$LOTUS 生态系统将尽可能使用经过审计的库和已建立的 Solana 原语,并将发布自定义合约的审计报告。然而,没有任何审计能完全消除风险。"
+    },
+    "execution": {
+      "title": "执行风险",
+      "text": "路线图是一个计划,不是保证。产品的发布可能晚于预期,可能与描述不同,或可能根本不发布。团队将本着诚信的态度尽力执行计划并透明地沟通变更,但执行结果不能保证。"
+    },
+    "utility": {
+      "title": "实用功能风险",
+      "text": "所描述的实用功能 —— Lotus AI、Bloom Treasury、Bloom Staking、Bloom Council、Zen Garden、Bloom Bazaar —— 是规划中的功能。它们的最终形式可能与描述不同。随着生态系统的发展,实用功能的访问可能会暂停、修改或弃用。"
+    },
+    "noAdvice": {
+      "title": "不构成投资建议",
+      "text": "本网站上的任何内容都不构成投资建议、财务建议、法律建议或税务建议。$LOTUS 是一种文化和实用代币,不是证券、不是股份、不是债务工具,也不是对任何实体资产或收入的索取权。潜在持有者在做出任何涉及 $LOTUS 的决定之前,应咨询自己的专业顾问。"
+    },
+    "noReturn": {
+      "title": "不保证回报",
+      "text": "$LOTUS 不保证任何形式的回报、收益或升值。Bloom Staking 奖励由生态系统活动资助,并随该活动而变化。转账费收入、回购和销毁是机械性的,但不保证价格结果。任何盈利预期都应基于持有者自己的分析。"
+    },
+    "jurisdictional": {
+      "title": "司法管辖区限制",
+      "text": "$LOTUS 不在世界上任何此类要约或销售违法的地方提供销售。在任何限制参与加密货币市场的司法管辖区的潜在持有者不应购买 $LOTUS。"
+    },
+    "forwardLooking": {
+      "title": "前瞻性陈述",
+      "text": "本网站包含前瞻性陈述 —— 对未来计划、产品、功能和结果的描述。前瞻性陈述本质上是不确定的。实际结果可能与所描述的存在重大差异。除了通过其酌情进行的后续公开沟通外,团队不承诺在情况发生变化时更新前瞻性陈述。"
+    },
+    "footnote": "淤泥是条件。绽放,在于你。"
+  }
+}
