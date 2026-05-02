@@ -13,7 +13,7 @@ export default function AnnouncementTicker() {
   } | null>(null);
 
   useEffect(() => {
-    const launchDate = new Date('2026-05-01T00:00:00Z').getTime();
+    const launchDate = new Date('2026-05-10T00:00:00Z').getTime();
 
     const update = () => {
       const now = Date.now();
