@@ -23,7 +23,8 @@
     "buyButton": "Comprar en Pump.fun",
     "whitepaperButton": "Leer Whitepaper",
     "contractLabel": "CONTRATO",
-    "contractValue": "próximamente"
+    "contractValue": "8vwmkLFgZpSFZsqEG5XUzQxZKk1vuxwUFMHUX6PVpump"
+
   },
   "interlude": {
     "passage": "Hay una flor que crece <italic>solo en el lodo.</italic><br></br>No puede florecer en agua limpia. Usa el lodo.<br></br>Convierte el lodo <italicPlain>en combustible,</italicPlain><br></br>en altura, en luz.",
@@ -227,7 +228,8 @@
     "language": "Idioma",
     "copyright": "© 2026 $LOTUS · Construido en Solana",
     "mantra": "Cuanto más profundo el lodo, más alto florece el loto.",
-    "comingSoon": "Próximamente",
+    "contractValue": "8vwmkLFgZpSFZsqEG5XUzQxZKk1vuxwUFMHUX6PVpump"
+,
     "links": {
       "philosophy": "Filosofía",
       "token": "Token",
