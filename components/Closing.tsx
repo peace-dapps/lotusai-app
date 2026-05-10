@@ -68,9 +68,10 @@ export default function Closing() {
 
         <Reveal delay={300}>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
-            
-            <a  href="href="https://pump.fun/coin/8vwmkLFgZpSFZsqEG5XUzQxZKk1vuxwUFMHUX6PVpump"
-"
+            <a
+              href="https://pump.fun/coin/8vwmkLFgZpSFZsqEG5XUzQxZKk1vuxwUFMHUX6PVpump"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-[var(--color-ink)] text-[var(--color-paper)] text-[14px] font-medium hover:bg-[var(--color-ink-soft)] transition-all duration-500"
             >
               {t('buyButton')}
@@ -78,8 +79,10 @@ export default function Closing() {
                 <path d="M3 7H11M11 7L7 3M11 7L7 11" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
               </svg>
             </a>
-            
-            <a  href="#"
+            <a
+              href="https://t.me/lotusai_app"
+              target="_blank"
+              rel="noopener noreferrer"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full border border-[var(--color-line)] bg-[var(--color-paper-warm)] text-[var(--color-ink)] text-[14px] font-medium hover:border-[var(--color-ink)] transition-all duration-500"
             >
               {t('joinButton')}
