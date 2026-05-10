@@ -48,8 +48,10 @@ export default function Hero() {
               className="mt-12 flex flex-col sm:flex-row gap-3"
               style={{ animation: 'rise 1.2s cubic-bezier(0.16, 1, 0.3, 1) 0.5s both' }}
             >
-              
-             <a   href="#"
+              <a
+                href="https://pump.fun/coin/8vwmkLFgZpSFZsqEG5XUzQxZKk1vuxwUFMHUX6PVpump"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-7 py-4 rounded-full bg-[var(--color-ink)] text-[var(--color-paper)] text-[14px] font-medium hover:bg-[var(--color-ink-soft)] transition-all duration-500"
               >
                 {t('buyButton')}
@@ -57,9 +59,10 @@ export default function Hero() {
                   <path d="M3 7H11M11 7L7 3M11 7L7 11" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
                 </svg>
               </a>
-              
-            <a    href="href="https://pump.fun/coin/8vwmkLFgZpSFZsqEG5XUzQxZKk1vuxwUFMHUX6PVpump"
-"
+              <a
+                href="/docs/lotus-whitepaper.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-7 py-4 rounded-full border border-[var(--color-line)] bg-[var(--color-paper-warm)] text-[var(--color-ink)] text-[14px] font-medium hover:border-[var(--color-ink)] transition-all duration-500"
               >
                 {t('whitepaperButton')}
