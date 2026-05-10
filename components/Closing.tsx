@@ -69,7 +69,8 @@ export default function Closing() {
         <Reveal delay={300}>
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             
-            <a  href="#"
+            <a  href="href="https://pump.fun/coin/8vwmkLFgZpSFZsqEG5XUzQxZKk1vuxwUFMHUX6PVpump"
+"
               className="inline-flex items-center justify-center gap-2 px-8 py-4 rounded-full bg-[var(--color-ink)] text-[var(--color-paper)] text-[14px] font-medium hover:bg-[var(--color-ink-soft)] transition-all duration-500"
             >
               {t('buyButton')}
