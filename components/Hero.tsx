@@ -58,7 +58,8 @@ export default function Hero() {
                 </svg>
               </a>
               
-            <a    href="#"
+            <a    href="href="https://pump.fun/coin/8vwmkLFgZpSFZsqEG5XUzQxZKk1vuxwUFMHUX6PVpump"
+"
                 className="inline-flex items-center justify-center gap-2 px-7 py-4 rounded-full border border-[var(--color-line)] bg-[var(--color-paper-warm)] text-[var(--color-ink)] text-[14px] font-medium hover:border-[var(--color-ink)] transition-all duration-500"
               >
                 {t('whitepaperButton')}
