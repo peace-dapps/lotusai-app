@@ -23,7 +23,8 @@
     "buyButton": "在 Pump.fun 购买",
     "whitepaperButton": "阅读白皮书",
     "contractLabel": "合约地址",
-    "contractValue": "启动时公布"
+    "contractValue": "8vwmkLFgZpSFZsqEG5XUzQxZKk1vuxwUFMHUX6PVpump"
+
   },
   "interlude": {
     "passage": "有一种花,<italic>唯在淤泥中生长。</italic><br></br>它无法在清水中盛开。它以淤泥为养。<br></br>将淤泥 <italicPlain>化为燃料,</italicPlain><br></br>化为高度,化为光。",
@@ -220,7 +221,8 @@
   "footer": {
     "tagline": "一个诞生于 Solana 的 memecoin,代表沉着的韧性。为深知冷静即是竞争优势的交易者而生。",
     "contractLabel": "CA:",
-    "contractValue": "启动时公布",
+    "contractValue": "8vwmkLFgZpSFZsqEG5XUzQxZKk1vuxwUFMHUX6PVpump"
+,
     "explore": "探索",
     "documents": "文档",
     "community": "社区",
