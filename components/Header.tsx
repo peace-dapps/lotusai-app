@@ -98,9 +98,10 @@ export default function Header() {
             )}
           </div>
 
-          
-         <a   href="https://pump.fun/coin/8vwmkLFgZpSFZsqEG5XUzQxZKk1vuxwUFMHUX6PVpump"
-
+          <a
+            href="https://pump.fun/coin/8vwmkLFgZpSFZsqEG5XUzQxZKk1vuxwUFMHUX6PVpump"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-6 py-2.5 text-[13px] font-medium rounded-full bg-[var(--color-ink)] text-[var(--color-paper)] hover:bg-[var(--color-ink-soft)] transition tracking-tight"
           >
             {t('buy')}
